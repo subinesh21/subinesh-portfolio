@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://subinesh.dev
+
+# Sitemaps
+Sitemap: https://subinesh.dev/sitemap.xml

@@ -1,0 +1,245 @@
+{
+  "Projects": [
+    {
+      "show": true,
+      "title": "AI Automation Solutions",
+      "desc": [
+        "Architecting custom AI automation workflows for international clients — Talentor Singapore and Chennai Green Gifts — using Gemini, Llama, and Python-based automation pipelines to eliminate manual work and accelerate operations.",
+        "Delivers measurable process efficiency across e-commerce and service businesses, with custom LLM integrations tailored to each client's specific workflows and data structures."
+      ],
+      "year": "2026",
+      "preview": "",
+      "code": "",
+      "links": [
+        { "label": "Talentor Singapore", "url": "https://talentor.com/l/talentor-singapore" },
+        { "label": "Chennai Green Gifts", "url": "https://chennaigreengifts.com" }
+      ],
+      "thumbnail": "/image/projects/web/intervyou/intervyou-thumbnail.jpg",
+      "images": [],
+      "tech": [
+        "Python",
+        "Gemini AI",
+        "Llama",
+        "LLMs",
+        "APIs",
+        "Automation"
+      ],
+      "slug": "ai-automation-solutions",
+      "category": [2]
+    },
+    {
+      "show": true,
+      "title": "Thulira",
+      "desc": [
+        "Built a full-stack e-commerce platform for a sustainable home-goods brand, delivering end-to-end ownership from UI design to production deployment. Features include product listings, shopping cart, user authentication, admin dashboard, and payment integration — engineered to scale and rank.",
+        "Powered by Next.js, MongoDB, and Firebase, the architecture is fully SEO-optimized for biodegradable product search terms, targeting eco-conscious consumers shopping for sustainable kitchenware and gardenware.",
+        "A production-ready proof of full-stack depth, demonstrating complete ownership across frontend, backend, authentication, and infrastructure."
+      ],
+      "year": "2025",
+      "preview": "https://www.thulira.com",
+      "code": "",
+      "thumbnail": "/Websites/thulira.png",
+      "images": [
+        "/Websites/thulira.png"
+      ],
+      "tech": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "MongoDB",
+        "Firebase"
+      ],
+      "slug": "thulira",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Chennai Green Gifts",
+      "desc": [
+        "Engineered a full-stack e-commerce gift platform for a Chennai-based sustainable brand offering 100+ plant varieties — indoor and outdoor — with deep customization across personalized wishnotes, planters (ceramic, terracotta, coir), and packaging.",
+        "Built to serve wedding planners, corporate buyers, and event managers with bulk pricing up to 55% off, targeting a fast-growing market for eco-friendly return gifts at weddings, birthdays, and corporate events.",
+        "A conversion-focused storefront combining rich product discovery with a gifting experience rooted in ecological intent — serving a specialized audience across Chennai's event and corporate sectors."
+      ],
+      "year": "2025",
+      "preview": "https://www.chennaigreengifts.com",
+      "code": "",
+      "thumbnail": "/Websites/chennaigreengifts.png",
+      "images": [
+        "/Websites/chennaigreengifts.png"
+      ],
+      "tech": [
+        "Next.js",
+        "React",
+        "Vercel"
+      ],
+      "slug": "chennai-green-gifts",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Chennai Greens",
+      "desc": [
+        "Built a dedicated platform for Chennai Greens, showcasing sustainable and eco-friendly products for a greener lifestyle.",
+        "Engineered with a focus on seamless user experience, responsive design, and robust performance."
+      ],
+      "year": "2025",
+      "preview": "https://www.chennaigreens.com",
+      "code": "",
+      "thumbnail": "/Websites/chennaigreens.png",
+      "images": [
+        "/Websites/chennaigreens.png"
+      ],
+      "tech": [
+        "Next.js",
+        "React",
+        "Vercel"
+      ],
+      "slug": "chennai-greens",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Reetz",
+      "desc": [
+        "Built the digital platform for a Singapore-based aviation advisory firm connecting airlines, lessors, MROs, financiers, and technology innovators across Asia Pacific and global aviation markets.",
+        "A precision-engineered B2B lead-generation and credibility platform on Next.js and Vercel, designed to unlock strategic partnerships at the intersection of aviation finance, operations, and technology."
+      ],
+      "year": "2026",
+      "preview": "https://reetz.vercel.app",
+      "code": "",
+      "thumbnail": "/Websites/reetz.png",
+      "images": [
+        "/Websites/reetz.png"
+      ],
+      "tech": [
+        "Next.js",
+        "Vercel"
+      ],
+      "slug": "reetz",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Asia Tech Roofing",
+      "desc": [
+        "Rebuilt a Singapore roofing firm's entire digital presence from a Webflow template into a production-grade Next.js application — featuring advanced GSAP ScrollTrigger animations, a 3D rotating cube component, and scroll-pinned service rows that deliver a cinematic browsing experience.",
+        "Integrated Google Reviews API and comprehensive structured data for local SEO/GEO dominance, serving a firm with 20+ years experience and 500+ completed projects across residential, commercial, and industrial sectors.",
+        "A technically sophisticated lead-generation machine that converts visitors across roof repair, leak repair, waterproofing, and structural works verticals in the Singapore market."
+      ],
+      "year": "2026",
+      "preview": "https://asiatechroof.sg",
+      "code": "",
+      "thumbnail": "/Websites/asiatechroof.png",
+      "images": [
+        "/Websites/asiatechroof.png"
+      ],
+      "tech": [
+        "Next.js",
+        "GSAP",
+        "TypeScript",
+        "Vercel",
+        "Google APIs"
+      ],
+      "slug": "asia-tech-roofing",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "KSP General Contractors",
+      "desc": [
+        "Executed a full content migration and custom rebuild for a Singapore Class 1 registered builder, delivering a multi-service lead-generation site covering painting, roofing, ceiling repairs, P.U. pressure grouting, and polycarbonate roofing.",
+        "Built with a Bauwerk-inspired services page architecture, free quote request system, project portfolio gallery, and 24/7 emergency response signals — all deployed on Next.js and Vercel with a clean client handoff workflow."
+      ],
+      "year": "2026",
+      "preview": "https://kspgeneralcontractors.sg",
+      "code": "",
+      "thumbnail": "/Websites/ksp.png",
+      "images": [
+        "/Websites/ksp.png"
+      ],
+      "tech": [
+        "Next.js",
+        "Vercel",
+        "Custom Components"
+      ],
+      "slug": "ksp-general-contractors",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Smart FAQ Bot with Gemini AI",
+      "desc": [
+        "Built an AI-powered FAQ chatbot using Gemini AI, LangChain, and FAISS vector search — directly applying GEO principles to understand how AI answer engines retrieve, contextualize, and surface structured content.",
+        "Demonstrates practical LLM integration for business use cases: semantic search over custom data, vector retrieval pipelines, and AI-consumable content architecture beyond traditional SEO."
+      ],
+      "year": "2026",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/web/intervyou/intervyou-thumbnail.jpg",
+      "images": [
+        "/image/projects/web/intervyou/intervyou-1.png",
+        "/image/projects/web/intervyou/intervyou-2.jpeg",
+        "/image/projects/web/intervyou/intervyou-3.webp"
+      ],
+      "tech": [
+        "Gemini AI",
+        "LangChain",
+        "FAISS",
+        "Python",
+        "JavaScript"
+      ],
+      "slug": "smart-faq-bot",
+      "category": [2]
+    },
+    {
+      "show": true,
+      "title": "Blockchain-Based Decentralized File Storage",
+      "desc": [
+        "Full-stack DApp using React, MetaMask, and IPFS for decentralized file storage.",
+        "Demonstrates ability to work across technical blockchain implementation and user interface layers, utilizing Solidity smart contracts on the Polygon Amoy test network."
+      ],
+      "year": "2023–2024",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/web/exacta/exacta-thumbnail.png",
+      "images": [
+        "/image/projects/web/exacta/exacta1.png",
+        "/image/projects/web/exacta/exacta2.png"
+      ],
+      "tech": [
+        "React",
+        "MetaMask",
+        "IPFS",
+        "Solidity",
+        "Web3.js"
+      ],
+      "slug": "blockchain-decentralized-storage",
+      "category": [9]
+    },
+    {
+      "show": true,
+      "title": "Mentor Connect App",
+      "desc": [
+        "Mobile app for real-time mentoring with session scheduling, tracking, and AI chatbot for personalized guidance.",
+        "Designed and implemented clean mobile user flows and content architecture, integrating Firebase for real-time data sync."
+      ],
+      "year": "2023–2024",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/web/apii-portfolio/porto-thumbnail.jpg",
+      "images": [
+        "/image/projects/web/apii-portfolio/porto1.png",
+        "/image/projects/web/apii-portfolio/porto2.png",
+        "/image/projects/web/apii-portfolio/porto3.png"
+      ],
+      "tech": [
+        "Kotlin",
+        "Android Studio",
+        "Firebase",
+        "AI integration"
+      ],
+      "slug": "mentor-connect",
+      "category": [9]
+    }
+  ]
+}
